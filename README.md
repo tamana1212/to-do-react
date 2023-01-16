@@ -6,7 +6,7 @@ Make sure you have Node.js and npm installed on your system.
 
 Run : 
 
-### `git clone https://github.com/sharma-kshitij/react-todo.git`
+### `git clone (url https or ssh)`
 
 ### `cd react-todo`
 
